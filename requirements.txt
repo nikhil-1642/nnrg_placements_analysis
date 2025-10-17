@@ -3,3 +3,15 @@ pandas
 plotly
 matplotlib
 seaborn
+gTTS
+pydub
+speechrecognition
+rembg
+deepface
+numpy
+Pillow
+spacy
+textblob
+wordcloud
+matplotlib
+nltk
